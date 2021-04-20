@@ -6,7 +6,7 @@
     <name>Nepxion Discovery Contrib</name>
     <packaging>pom</packaging>
     <modelVersion>4.0.0</modelVersion>
-    <version>2.0.0</version>
+    <version>1.0.0</version>
     <description>Nepxion Discovery Contrib is 3rd-party such as Database, Queue Message contributions that use Nepxion Discovery</description>
     <url>http://www.nepxion.com</url>
 
@@ -18,7 +18,7 @@
     </modules>
 
     <properties>
-        <discovery.version>6.9.0</discovery.version>
+        <discovery.version>3.25.0</discovery.version>
 
         <rocketmq.version>2.1.1</rocketmq.version>
 
