@@ -18,7 +18,7 @@
     </modules>
 
     <properties>
-        <discovery.version>3.26.0</discovery.version>
+        <discovery.version>3.27.0</discovery.version>
 
         <rocketmq.version>2.1.1</rocketmq.version>
 
